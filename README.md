@@ -2,7 +2,7 @@
 Growfy. Landing page
 
 Верстка макета лендінга. 
--------------
-Переглянути в браузері
 *************
+Переглянути в браузері
+
 https://sitemasterreal.github.io/growfy/
