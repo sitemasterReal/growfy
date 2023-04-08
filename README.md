@@ -1,5 +1,5 @@
 # growfy
-Growfy. Landing page
+Growfy. Landing page. Adaptive layout and animation elements.
  
 ![screenshot](/img/Screenshot_1.jpg)
 
